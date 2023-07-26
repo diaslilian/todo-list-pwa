@@ -17,6 +17,7 @@ export default defineConfig({
       workbox: {
         globPatterns: ["**/*.{js,css,html,ico,png,svg}"],
         sourcemap: true,
+        disableDevLogs: true,
         runtimeCaching: [
           {
             urlPattern: ({ url }) => url.pathname.startsWith("/"),
