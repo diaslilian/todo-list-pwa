@@ -1,7 +1,7 @@
 
 # Aplicação PWA Offline com Vite e ReactJS
 
-**[Guia para Transformar sua Aplicação em um Progressive Web App (PWA) com VitePWA]()**
+**[Guia para Transformar sua Aplicação em um Progressive Web App (PWA) com VitePWA](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)**
 
 Este guia apresenta um processo passo a passo para converter sua aplicação em um Progressive Web App (PWA) usando a ferramenta VitePWA. Ao longo deste tutorial, você aprenderá a disponibilizar sua aplicação offline para os usuários, oferecendo uma experiência mais fluida e ágil.
 
@@ -29,7 +29,7 @@ Para implantar a PWA, você deve compilar a aplicação utilizando o comando de 
 
 Ao seguir este guia, você transformará sua aplicação em um PWA offline usando o VitePWA. Isso proporcionará aos seus usuários uma experiência mais suave e rápida, mesmo quando estiverem desconectados. Continue explorando as capacidades do VitePWA para aprimorar ainda mais as experiências dos usuários em suas aplicações web.
 
-*[Confira o Post no Dev.to de todo o passo a passo de como transformar sua aplicação em um PWA]()*
+*[Confira o Post no Dev.to de todo o passo a passo de como transformar sua aplicação em um PWA](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)*
 
 Um exemplo completo de aplicação PWA utilizando o VitePWA está disponível nesse repositório. Para mais detalhes sobre configurações e recursos, consulte a documentação oficial do VitePWA.
 
@@ -46,7 +46,7 @@ Agora é sua vez de criar experiências offline incríveis com o VitePWA. Vamos 
 
 ## Referência
 
- - [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React]()
+ - [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)
  - [Documentação ReactJS](https://react.dev/learn/start-a-new-react-project)
  - [Documentação VitePWA](https://vite-pwa-org.netlify.app/guide/)
 
